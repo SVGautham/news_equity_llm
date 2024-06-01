@@ -16,3 +16,5 @@ faiss_store_openai.pkl: A pickle file to store the FAISS index.<br>
 Install the required dependencies using pip in requirements.txt file<br>
 Set up your OpenAI API key by creating a .env file in the project root and adding your API<br>
 run the streamlit app
+
+![Uploading Screenshot (401).png…]()
