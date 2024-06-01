@@ -1,1 +1,1 @@
-# news_equity_llm
+# RESEARCH ARTICLE LLM
